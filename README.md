@@ -10,4 +10,4 @@ Hola me llamo Joaquin Francisco Lumbrera, tengo 21 años y mi legajo es 220.842-
 - Dato de color no tan interesante, naci un 24/12/2004, eso. Y no, no recibo el doble de regalos
 
 
-! ![Probanding](image.png)
+![Probanding](image.png)
