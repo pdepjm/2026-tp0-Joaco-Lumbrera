@@ -11,3 +11,4 @@ Hola me llamo Joaquin Francisco Lumbrera, tengo 21 años y mi legajo es 220.842-
 
 
 ![Probanding](image.png)
+!(<img width="1200" height="1600" alt="WhatsApp Image 2026-04-22 at 11 41 22 (1)" src="https://github.com/user-attachments/assets/54fb4370-683e-490b-ad54-a73389567b5e" />)
