@@ -11,4 +11,11 @@ Hola me llamo Joaquin Francisco Lumbrera, tengo 21 años y mi legajo es 220.842-
 
 
 ![Probanding](image.png)
-!(<img width="1200" height="1600" alt="WhatsApp Image 2026-04-22 at 11 41 22 (1)" src="https://github.com/user-attachments/assets/54fb4370-683e-490b-ad54-a73389567b5e" />)
+Esta negrita de aca se llama Panamericana
+!<img width="600" height="600" alt="WhatsApp Image 2026-04-22 at 11 41 22 (1)" src="https://github.com/user-attachments/assets/54fb4370-683e-490b-ad54-a73389567b5e" />
+Esta de aca Calle
+!<img width="600" height="600" alt="WhatsApp Image 2026-04-22 at 11 41 22" src="https://github.com/user-attachments/assets/cf8f988e-b03a-4815-a31b-5e1d4fb69bf4" />
+Y esta de aca es mi gatita llamada Moly
+!<img width="600" height="600" alt="WhatsApp Image 2026-04-22 at 11 41 21" src="https://github.com/user-attachments/assets/0caeeb6f-3853-47fb-ad88-3892dd3d44a7" />
+!<img width="600" height="600" alt="WhatsApp Image 2026-04-22 at 11 41 21" src="https://github.com/user-attachments/assets/6cff5072-3122-4b37-b47f-64d420381f6d" />
+
